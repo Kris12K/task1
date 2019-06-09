@@ -1,0 +1,6 @@
+C:\Users\Z\Desktop\task1-(492)\task1-(492)\bin\Debug\task1-(492).exe.config
+C:\Users\Z\Desktop\task1-(492)\task1-(492)\bin\Debug\task1-(492).exe
+C:\Users\Z\Desktop\task1-(492)\task1-(492)\bin\Debug\task1-(492).pdb
+C:\Users\Z\Desktop\task1-(492)\task1-(492)\obj\Debug\task1-(492).csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\task1-(492)\task1-(492)\obj\Debug\task1-(492).exe
+C:\Users\Z\Desktop\task1-(492)\task1-(492)\obj\Debug\task1-(492).pdb
